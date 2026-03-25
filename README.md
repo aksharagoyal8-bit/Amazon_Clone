@@ -1,2 +1,2 @@
 # Amazon_Clone
-Its a Amazon Clone
+Its a Amazon Clone..
